@@ -1,0 +1,27 @@
+{
+  "schema": "c13b0/avatar-coin-site/v1",
+  "siteId": "hydrogen-radio",
+  "siteName": "Hydrogen Radio",
+  "marker": {
+    "symbol": "H",
+    "label": "Hydrogen Avatar Coin",
+    "coverage": "every safely editable page element"
+  },
+  "portal": {
+    "module": "avatar-wave.js",
+    "recordSchema": "c13b0/avatar-wave-version/v1",
+    "localChain": true,
+    "sharedPublishing": false
+  },
+  "opportunities": [
+    "station names",
+    "descriptions",
+    "controls",
+    "labels",
+    "lyrics",
+    "signal content",
+    "page design",
+    "generated stations"
+  ],
+  "principle": "More complete contributions create more attributed edit points, discovery paths, remixes, installs and adoption opportunities."
+}
